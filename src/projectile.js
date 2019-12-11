@@ -21,8 +21,6 @@ class Projectile{
     // }
 
     setFlightPattern(){
-        console.log('testttt')
-        console.log(this)
         setTimeout(() =>{
 
             this.velocity = {
